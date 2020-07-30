@@ -1,0 +1,130 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "title",
+                "type": "string"
+            },
+            {
+                "name": "media",
+                "type": "string"
+            },
+            {
+                "name": "date",
+                "type": "string"
+            },
+            {
+                "name": "desc",
+                "type": "string"
+            },
+            {
+                "name": "link",
+                "type": "string"
+            },
+            {
+                "name": "img",
+                "type": "string"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "0.20.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "title": "\u201cWild Ride to Nowhere\u201d: APPL, MSFT, AMZN, GOOG, FB Soar ...",
+            "media": "WOLF STREET",
+            "date": "2 weeks ago",
+            "desc": "\u201cWild Ride to Nowhere\u201d: APPL, MSFT, AMZN, GOOG, FB Soar to New High. Rest of Stock Market is a Dud, Has Been for Years. by Wolf Richter ...",
+            "link": "https://wolfstreet.com/2020/07/11/wild-ride-to-nowhere-appl-msft-amzn-goog-and-fb-soar-to-new-high-rest-of-the-stock-market-is-a-dud-has-been-for-years/",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 1,
+            "title": "Top 3 Gainers: Google (GOOGL), Tesla (TSLA), Apple (APPL) - Can the Assets Keep Growing After Setting New Peaks?...",
+            "media": "TheTradable",
+            "date": "1 day ago",
+            "desc": "Top 3 Gainers: Google (GOOGL), Tesla (TSLA), Apple (APPL) - Can the Assets Keep Growing After Setting New Peaks? Usman Salis.",
+            "link": "https://thetradable.com/stocks/top-3-gainers-google-googl-tesla-tsla-apple-appl-can-the-assets-keep-growing-after-setting-new-peaks",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 2,
+            "title": "Who are Apple\u2019s largest shareholders?",
+            "media": "IG",
+            "date": "4 weeks ago",
+            "desc": "The following people are more accurately called Apple (AAPL) insiders rather than investors, because they've amassed their shareholdings as part of their ...",
+            "link": "https://www.ig.com/en/trading-strategies/who-are-apples-largest-shareholders-200630",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 3,
+            "title": "Apple: Say Goodbye To $400",
+            "media": "Seeking Alpha",
+            "date": "4 days ago",
+            "desc": "By most measures, shares of APPL are more expensive than ever. The valuation multiples we're looking at, including a current P/E of 29x and ...",
+            "link": "https://seekingalpha.com/article/4360529-apple-say-goodbye-to-400",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 4,
+            "title": "Wedbush ups AAPL target to $450 alongside bullish iPhone 12 prediction",
+            "media": "AppleInsider",
+            "date": "2 weeks ago",
+            "desc": "Investment bank Wedbush has now raised its APPL price target to $450 and expects it to become the first $2 trillion company during 2021, ...",
+            "link": "https://appleinsider.com/articles/20/07/13/wedbush-raises-apple-price-target-on-prediction-of-increased-iphone-12-demand",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 5,
+            "title": "Apple Earnings Likely to Beat Street Estimates, Morgan Stanley Says",
+            "media": "Barron's",
+            "date": "6 days ago",
+            "desc": "Huberty writes that she sees \u201ca favorable setup\u201d for Apple shares (ticker: APPL) heading into earnings, which are due after the close on July 30.",
+            "link": "https://www.barrons.com/articles/apple-earnings-likely-to-beat-street-estimates-morgan-stanley-says-51595433322",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 6,
+            "title": "MSFT: Microsoft And Apple Continue to Thrive",
+            "media": "StockNews.com",
+            "date": "3 weeks ago",
+            "desc": "At the end of last week, MSFT and APPL had a combined market cap of an incredible $3.142 trillion. Each company is a member of the ...",
+            "link": "https://stocknews.com/news/msft-aapl-microsoft-and-apple-continue-to-thrive/",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 7,
+            "title": "Facebook's Zuckerberg to defend company before U.S. Congress by listing competitors",
+            "media": "Yahoo News Canada",
+            "date": "2 hours ago",
+            "desc": "O> and Apple Inc <APPL.O>. https://reut.rs/2DhrEFT. Zuckerberg will also defend Facebook's acquisitions by saying the social-media platform ...",
+            "link": "https://ca.news.yahoo.com/facebook-ceo-defend-company-congress-212349257.html",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 8,
+            "title": "Drone Motors Market to Soar at 28.4% CAGR Through 2030; Potential for Remote Covid-19 Tracking Applications to Sustain Demand",
+            "media": "Benzinga",
+            "date": "10 hours ago",
+            "desc": "Drone motor manufacturers seek strategic contracts with corporations, local governments and armed forces to sustain revenues through ...",
+            "link": "https://www.benzinga.com/pressreleases/20/07/ac16807274/drone-motors-market-to-soar-at-28-4-cagr-through-2030-potential-for-remote-covid-19-tracking-appl",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "index": 9,
+            "title": "James Casad | Obituaries",
+            "media": "",
+            "date": "13 mins ago",
+            "desc": "Jim was born March 4, 1949, in Champaign, the son of Charles and Betty (Appl) Casad. Jim graduated from Central High School in 1967, then ...",
+            "link": "https://www.news-gazette.com/obituaries/james-casad/article_7730b75c-d127-11ea-9c55-5cb9017beffb.html",
+            "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        }
+    ]
+}

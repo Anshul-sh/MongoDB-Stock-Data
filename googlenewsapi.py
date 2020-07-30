@@ -12,9 +12,10 @@ class GoogleNewsMethods():
     # This will return a list of news for perticular stock on a given date 
     def newscollection(self, stock, date):
         self.googlenews.search(stock)
-        self.newsList = googlenews.result()
-        print (self.newsList)
+        self.newsList = self.googlenews.result()
+        return(self.newsList)
 
 if __name__ == "__main__":
     news = GoogleNewsMethods()
-    news.newscollection("APPL", today)
+    output = news.newscollection("APPL", today)
+    print(output)
